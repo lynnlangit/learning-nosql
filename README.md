@@ -13,3 +13,5 @@ Companion repository to Linked In Learning course 'Cloud NoSQL for SQL Pros'
 - NoSQL vs Hadoop/Spark
 - Cloud vendor services vs. Open Source Models
 
+See the `links.md` file for links related to this course
+
