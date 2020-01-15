@@ -1,4 +1,6 @@
-# JSON-database
+# Document-database
+
+Also known as JSON (or BSON database)
 
 Info here
 - MongoDB
