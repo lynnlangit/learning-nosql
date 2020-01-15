@@ -18,10 +18,12 @@
  - Files -> write code
     - is becomming use SQL **NEW**
  - Tables -> write SQL and/or use ORM
+    - JOINS & INDEXES
  - Customized File systems
     - NoSQL or Hadoop/Spark
     - was write code
     - adding use SQL-like syntax
+        - few or no JOINS / INDEXES
 
 ## How to optimize
  - Files -> compress, split
@@ -33,10 +35,22 @@
 ## When to Use
  - Files -> massive amounts of data (genomic)
  - Tables -> transactions
+    - schema on WRITE
+    - CRUD validation
  - Customized -> everything else
+    - schema on READ (flexible CRUD)
     - prefer cloud vendor to OSS
         - better integration 
             - vendor 'ORM's'
+
+## CAP
+ - Consistency (transactions)
+    - ACID -> RDBMS only
+    - Tunable -> some NoSQL
+    - Eventual -> NoSQL
+    - None -> Files
+ - Availability (duplicates for uptime)
+ - Partitioning (scalability)
 
 ## Open Source or Not
 - True cost of pure open source
