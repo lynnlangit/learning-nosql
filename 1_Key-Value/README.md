@@ -2,5 +2,8 @@
 
 Info here
 - Redis
-- AWS DynamoDB
-- GCP BigTable
+- AWS Memcache or DynamoDB
+- GCP Memcache or BigTable
+
+Biz Example
+- Hot application data cache - users
