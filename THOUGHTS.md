@@ -59,5 +59,7 @@
 
 ## Use Cases
 - Mobile on AWS
+- Mobile on GCP
+- IoT on AWS
 - Genomics on AWS
 - Genomics on GCP
