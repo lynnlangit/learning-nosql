@@ -4,6 +4,7 @@
  - Cloud managed NoSQL (theirs or vendor)
  - Consolidation of NoSQL providers
  - Big data is here (genomics, others...)
+ - Multiple NoSQL features in the same NoSQL database (i.e. DynamoDB is both K/V and Document...)
  - Event (streams) vs Batches (or Incremental)
  - Serverless
 
