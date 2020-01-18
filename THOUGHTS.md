@@ -54,6 +54,8 @@
  - Availability (duplicates for uptime)
  - Partitioning (scalability)
 
+ ![Comparing](https://github.com/lynnlangit/learning-nosql/blob/master/0_Comparisons/noSQL-performance.png)
+
 ## Open Source or Not
 - True cost of pure open source
 - True cost of 'productized' open source
