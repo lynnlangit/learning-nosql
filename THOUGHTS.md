@@ -54,6 +54,9 @@
  - Availability (duplicates for uptime)
  - Partitioning (scalability)
 
+
+Figure below from Wikipedia NoSQL entry - [link](https://en.wikipedia.org/wiki/NoSQL)
+
  ![Comparing](https://github.com/lynnlangit/learning-nosql/blob/master/0_Comparisons/noSQL-performance.png)
 
 ## Open Source or Not
