@@ -9,6 +9,10 @@ This is a page for links related to this course
     - properties of database transactions
     - atomicity, consistency, isolation, durability
 
+## Architectures
+
+- AWS reference architectures - [link](https://aws.amazon.com/architecture)
+
 ## Other Repos
 
 - Learning Hadoop/Spark - [link](https://github.com/lynnlangit/learning-hadoop-and-spark)
