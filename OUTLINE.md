@@ -13,27 +13,27 @@
 - Overcome limits of file systems
 - Overcome limits of RDBMS
 - Undestanding CAP Theorem
-## 3 Use Key-Value Databases
+## 3 Use Key-Value NoSQL
 - Store hot lookup lists
-- Use Cloud Memorystore for Redi on GCP
+- Use Cloud Memorystore for Redis on GCP
 - Use AWS Memcache
 - Review Key-Value Architecture
-## 4 Use Columnar Databases
+## 4 Use Columnar NoSQL
 - Store events
 - Use Cloud Cassandra on AWS
 - Use AWS DynamoDB
 - Review Columnar Architecture
-## 5 Use Document Databases
+## 5 Use Document NoSQL
 - Store customer activity
 - Use Cloud MongoDB on GCP
 - Use AWS DocumentDB
 - Review Document Architecture
-## 6 Use Graph Database
+## 6 Use Graph NoSQL
 - Store customer relations
 - Review Neo4j 
 - Use AWS Neptune
 - Review Graph Architecture
-## 7 Use Specialty Databases
+## 7 Use Specialty NoSQL
 - Store real-time events
 - Use GCP Firestore
 - Store time-based events
