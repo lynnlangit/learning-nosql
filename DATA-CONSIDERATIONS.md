@@ -1,11 +1,11 @@
 # DATA Considerations
 
 ### The V's
-- Volume - how much?
+- **Volume** - how much?
     - Current
     - Projected vs. Actual
     - Archives
-- Variety - what type?
+- **Variety** - what type?
     - Files
         - Encoded
         - Compressed
@@ -16,12 +16,12 @@
     - Semi-structured
         - Events
         - JSON, BSON, XML
-- Velocity - how frequently?
+- **Velocity** - how frequently?
     - Batch
     - CRUD
     - Stream
     - Real-time
-- Veracity - quality?
+- **Veracity** - quality?
     - Transactional Integrity
     - ETL processing
     - Meta/Master data

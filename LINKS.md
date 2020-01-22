@@ -13,6 +13,10 @@ This is a page for links related to this course
 
 - AWS reference architectures - [link](https://aws.amazon.com/architecture)
 
+## Using
+- Import file data in GCP Memorystore for Redis - [link](https://cloud.google.com/memorystore/docs/redis/import-data)
+- Redis RDB file format - [link](https://github.com/sripathikrishnan/redis-rdb-tools/wiki/Redis-RDB-Dump-File-Format)
+
 ## Other Repos
 
 - Learning Hadoop/Spark - [link](https://github.com/lynnlangit/learning-hadoop-and-spark)
