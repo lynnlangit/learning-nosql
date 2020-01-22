@@ -21,11 +21,13 @@
 ## 4 Use Columnar NoSQL
 - Store events
 - Use Cloud Cassandra on AWS
-- Use AWS DynamoDB
+- Use GCP BigTable
+- Use GCP BigQuery
 - Review Columnar Architecture
 ## 5 Use Document NoSQL
 - Store customer activity
 - Use Cloud MongoDB on GCP
+- Use AWS DynamoDB
 - Use AWS DocumentDB
 - Review Document Architecture
 ## 6 Use Graph NoSQL
