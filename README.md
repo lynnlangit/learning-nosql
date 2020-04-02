@@ -1,5 +1,5 @@
 # learning-nosql
-Companion repository to Linked In Learning course 'Cloud NoSQL for SQL Pros'
+Companion repository to Linked In Learning course 'Cloud NoSQL for SQL Pros' - [link](https://www.linkedin.com/learning/cloud-nosql-for-sql-professionals)
 
 ## Topics
 - NoSQL Databases
