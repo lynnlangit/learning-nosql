@@ -1,5 +1,10 @@
 # Vector-database
 
+<kbd><img src="https://theblue.ai/wp-content/uploads/2023/05/Schemantic-representation-of-a-process-inside-a-vector-databse.png" width=800></kbd>
+
+Image from [here](https://theblue.ai/blog/vector-databases/)
+
+
 Vector Databases are increasingly used in Generative AI solutions.  Here's a couple of summary articles to set context.  
 - Article:"Leveraging Generative AI for Proprietary Data – A Use Case for Vector Databases" - [link](https://mobilabsolutions.com/2024/05/leveraging-generative-ai-for-proprietary-data-a-use-case-for-vector-databases/)
 - Article: "Embeddings and Vector Databases" - [link](https://medium.com/@vladris/embeddings-and-vector-databases-732f9927b377)
