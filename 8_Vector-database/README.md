@@ -1,6 +1,6 @@
 # Vector-database
 
-Vector Databases are increasingly used in Generative AI solutions.  Here's a summary article to set context.  
+Vector Databases are increasingly used in Generative AI solutions.  Here's a couple of summary articles to set context.  
 - Article:"Leveraging Generative AI for Proprietary Data – A Use Case for Vector Databases" - [link](https://mobilabsolutions.com/2024/05/leveraging-generative-ai-for-proprietary-data-a-use-case-for-vector-databases/)
 - Article: "Embeddings and Vector Databases" - [link](https://medium.com/@vladris/embeddings-and-vector-databases-732f9927b377)
 
