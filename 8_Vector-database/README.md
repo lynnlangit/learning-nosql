@@ -1,8 +1,8 @@
 # Vector-database
 
-<kbd><img src="https://theblue.ai/wp-content/uploads/2023/05/Schemantic-representation-of-a-process-inside-a-vector-databse.png" width=800></kbd>
+<kbd><img src="https://www.pinecone.io/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fvr8gru94%2Fproduction%2Fe88ebbacb848b09e477d11eedf4209d10ea4ac0a-1399x537.png&w=3840&q=75"></kbd>
 
-Image from [here](https://theblue.ai/blog/vector-databases/)
+Image from [here](https://www.pinecone.io/learn/vector-database/)
 
 
 Vector Databases are increasingly used in Generative AI solutions.  Here's a couple of summary articles to set context.  
@@ -10,6 +10,7 @@ Vector Databases are increasingly used in Generative AI solutions.  Here's a cou
 - Article: "Embeddings and Vector Databases" - [link](https://medium.com/@vladris/embeddings-and-vector-databases-732f9927b377)
 
 ## Links
+- Tutorial: "What is a Vector Database?" - [link](https://www.pinecone.io/learn/vector-database/)
 - Course: "What are Embeddings?" - [link](https://developers.google.com/machine-learning/crash-course/embeddings/video-lecture)
 - Article: "The Top 5 Vector Databases" - [link](https://www.datacamp.com/blog/the-top-5-vector-databases)
 - Article: "Which Vector Database Should You Use?" - [link](https://medium.com/the-ai-forum/which-vector-database-should-you-use-choosing-the-best-one-for-your-needs-5108ec7ba133)
