@@ -18,6 +18,8 @@ Vector Databases are increasingly used in Generative AI solutions.  Here's a cou
 - Big List/Article: "Vector Databases are all the Rage" - [link](https://medium.com/google-cloud/vector-databases-are-all-the-rage-872c888fa348)
 
 ## Vector Databases on GCP
+- Blog: "What is a GCP Vector Database?" - [link](https://cloud.google.com/discover/what-is-a-vector-database)
+- Quickstart: "Use a GCP Vector Index (Database) for Search - notebook example" - [link](https://cloud.google.com/vertex-ai/docs/vector-search/quickstart) - NOTE: takes 30-60 minutes to run dues to index creation time.  
 - Article: "BigQuery as a Vector Database" - [link](https://medium.com/@shuvro_25220/bigquery-as-a-vector-database-how-cool-is-that-16b8dcb2beb3)
 - Article: "Use BigQuery for RAG" - [link](https://medium.com/@willyzhuang/bigquery-as-a-vector-database-leveraging-retrieval-augmented-generation-rag-bda66eba88ca)
 - Guide: Intro to BigQuery Vector Search - [link](https://cloud.google.com/bigquery/docs/vector-search-intro)
